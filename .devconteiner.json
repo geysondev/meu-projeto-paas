@@ -1,0 +1,15 @@
+{
+  "name": "Landing Page Dev",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:0-18",
+  "features": {
+    "ghcr.io/devcontainers/features/git:1": {}
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.live-server",
+        "esbenp.prettier-vscode"
+      ]
+    }
+  }
+}

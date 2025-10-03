@@ -1,0 +1,22 @@
+/* styles.css — customização adicional */
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+section {
+  scroll-margin-top: 80px; /* espaçamento ao clicar no menu */
+}
+
+.card {
+  border-radius: 10px;
+  transition: transform .2s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+footer {
+  font-size: 14px;
+}
