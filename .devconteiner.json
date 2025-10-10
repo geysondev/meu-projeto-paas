@@ -8,7 +8,10 @@
     "vscode": {
       "extensions": [
         "ms-vscode.live-server",
-        "esbenp.prettier-vscode"
+        "esbenp.prettier-vscode",
+        "ritwickdey.liveserver",
+        "naumovs.color-highlight",
+        "zignd.html-css-class-completion"
       ]
     }
   }
